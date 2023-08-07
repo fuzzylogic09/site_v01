@@ -17,6 +17,7 @@
             <div class="sidebar">
                 <?php
                     include "sidebar.php";
+                    echo "test";
                 ?>
 
             </div>
